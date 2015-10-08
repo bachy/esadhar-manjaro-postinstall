@@ -248,6 +248,16 @@ genericName=Font Editor
 iconName=fontforge
 url=file:///usr/share/applications/fontforge.desktop
 
+[Containments][1][Applets][52]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][52][Configuration][General]
+applicationName=Atom
+genericName=Text Editor
+iconName=atom
+url=file:///usr/share/applications/atom.desktop
+
 [Containments][1][Applets][6]
 immutability=1
 plugin=org.kde.plasma.digitalclock
@@ -257,7 +267,7 @@ DialogHeight=81
 DialogWidth=1440
 
 [Containments][1][General]
-AppletOrder=2;16;38;19;45;46;47;43;44;39;40;51;41;42;50;49;48;15;3;32;5;6
+AppletOrder=2;16;38;19;45;46;47;43;44;39;40;51;41;42;50;49;48;52;15;3;32;5;6
 
 [Containments][35]
 activityId=831c40ae-ef08-4ec1-9238-53c7755d775a
