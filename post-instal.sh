@@ -38,6 +38,9 @@ sudo wget -O /etc/bash_completion.d/git-completion.bash https://github.com/git/g
 cp $_cwd/vimrc /home/$USER/.vimrc
 sudo cp $_cwd/vimrc /root/.vimrc
 
+echo "Atom editor"
+yaourt -S --needed --noconfirm atom-editor
+
 echo "Arduino installation"
 yaourt -S --needed --noconfirm arduino
 sudo gpasswd -a $USER uucp
