@@ -1,0 +1,11 @@
+[General]
+history=konso,sys,fire,ter
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.konsole.desktop
+
+[Plugins]
+kabccontactsEnabled=false
+kopete_runnerEnabled=false
+org.kde.events_runnerEnabled=false
+org.kde.windowedwidgetsEnabled=false

@@ -1,0 +1,213 @@
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=none,none,Passer à la disposition de clavier suivante
+_k_friendly_name=KDE Daemon
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
+_k_friendly_name=kaccess
+
+[kded5]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Diminuer la luminosité du clavier
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Diminuer la luminosité de l'écran
+Hibernate=Hibernate,Hibernate,Hiberner
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Augmenter la luminosité du clavier
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Augmenter la luminosité de l'écran
+PowerOff=Power Off,Power Off,Éteindre
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Afficher l'activité du système
+Sleep=Sleep,Sleep,En veille
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Changer le rétro-éclairage du clavier
+_k_friendly_name=KDE Daemon
+display=Display,Display,Changer d'affichage
+
+[khotkeys]
+_k_friendly_name=KDE Daemon
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Rechercher
+{e97a731c-c528-4a70-9984-a0f61413b391}=Print,none,Copie d'écran
+
+[kmix]
+_k_friendly_name=kmix
+decrease_volume=Volume Down,Volume Down,Decrease Volume
+increase_volume=Volume Up,Volume Up,Increase Volume
+mute=Volume Mute,Volume Mute,Mute
+
+[krunner]
+_k_friendly_name=krunner
+run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Exécuter la commande
+run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Exécuter la commande en utilisant le contenu du presse-papier
+
+[ksmserver]
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Éteindre sans confirmation
+Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Verrouiller la session
+Log Out=Ctrl+Alt+Del,none,Déconnexion
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Déconnexion sans confirmation
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Redémarrer sans confirmation
+_k_friendly_name=Configuration du système
+
+[kwin]
+Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activer une fenêtre réclamant de l'attention
+Decrease Opacity=none,none,Réduire l'opacité de la fenêtre active de 5 %
+Expose=Ctrl+F9,Ctrl+F9,Activer / désactiver la présentation des fenêtres (bureau courant)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Activer / désactiver la présentation des fenêtres (tous les bureaux)
+ExposeClass=Ctrl+F7,Ctrl+F7,Activer / désactiver la présentation des fenêtres (Classe de fenêtre)
+Increase Opacity=none,none,Augmenter l'opacité de la fenêtre active de 5 %
+Invert Screen Colors=none,none,Inverser les couleurs de l'écran
+Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Détruire une fenêtre
+MoveMouseToCenter=Meta+F6,Meta+F6,Déplacer la souris au centre
+MoveMouseToFocus=Meta+F5,Meta+F5,Déplacer la souris pour donner le focus
+MoveZoomDown=Meta+Down,Meta+Down,Déplacer la zone de zoom vers le bas
+MoveZoomLeft=,Meta+Left,Déplacer la zone de zoom vers la gauche
+MoveZoomRight=,Meta+Right,Déplacer la zone de zoom vers la droite
+MoveZoomUp=Meta+Up,Meta+Up,Déplacer la zone de zoom vers le haut
+Remove Window From Group=none,none,Enlever la fenêtre du groupe
+Setup Window Shortcut=none,none,Raccourci de configuration pour une fenêtre
+Show Desktop=none,none,Afficher un bureau
+ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Afficher la grille de bureaux
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Désactiver la composition
+Switch One Desktop Down=none,none,Aller au prochain bureau en bas
+Switch One Desktop Up=none,none,Aller au prochain bureau en haut
+Switch One Desktop to the Left=none,none,Aller au prochain bureau à gauche
+Switch One Desktop to the Right=none,none,Aller au prochain bureau à droite
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Basculer vers une fenêtre en-dessous
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Basculer vers une fenêtre à gauche
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Basculer vers une fenêtre à droite
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Basculer vers une fenêtre au-dessus
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Aller au bureau 1
+Switch to Desktop 10=none,none,Passer au bureau 10
+Switch to Desktop 11=none,none,Passer au bureau 11
+Switch to Desktop 12=none,none,Passer au bureau 12
+Switch to Desktop 13=none,none,Passer au bureau 13
+Switch to Desktop 14=none,none,Passer au bureau 14
+Switch to Desktop 15=none,none,Passer au bureau 15
+Switch to Desktop 16=none,none,Passer au bureau 16
+Switch to Desktop 17=none,none,Passer au bureau 17
+Switch to Desktop 18=none,none,Passer au bureau 18
+Switch to Desktop 19=none,none,Passer au bureau 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Aller au bureau 2
+Switch to Desktop 20=none,none,Passer au bureau 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Aller au bureau 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Aller au bureau 4
+Switch to Desktop 5=Ctrl+F5,none,Aller au bureau 5
+Switch to Desktop 6=Ctrl+F6,none,Aller au bureau 6
+Switch to Desktop 7=none,none,Passer au bureau 7
+Switch to Desktop 8=none,none,Passer au bureau 8
+Switch to Desktop 9=none,none,Passer au bureau 9
+Switch to Next Desktop=Meta+Right,none,Aller au bureau suivant
+Switch to Next Screen=none,none,Passer sur l'écran suivant
+Switch to Previous Desktop=Meta+Left,none,Aller au bureau précédent
+Switch to Previous Screen=none,none,Passer sur l'écran précédent
+Switch to Screen 0=none,none,Passer sur l'écran 0
+Switch to Screen 1=none,none,Passer sur l'écran 1
+Switch to Screen 2=none,none,Passer sur l'écran 2
+Switch to Screen 3=none,none,Passer sur l'écran 3
+Switch to Screen 4=none,none,Passer sur l'écran 4
+Switch to Screen 5=none,none,Passer sur l'écran 5
+Switch to Screen 6=none,none,Passer sur l'écran 6
+Switch to Screen 7=none,none,Passer sur l'écran 7
+Toggle Window Raise/Lower=none,none,Passer une fenêtre au-dessus / en dessous
+Walk Through Desktop List=none,none,Circuler dans la liste des bureaux
+Walk Through Desktop List (Reverse)=none,none,Circuler dans la liste des bureaux (en ordre inverse)
+Walk Through Desktops=none,none,Circuler parmi les bureaux
+Walk Through Desktops (Reverse)=none,none,Circuler parmi les bureaux (en ordre inverse)
+Walk Through Window Tabs=none,none,Naviguer parmi les onglets de fenêtres
+Walk Through Window Tabs (Reverse)=none,none,Naviguer parmi les onglets de fenêtres (en ordre inverse)
+Walk Through Windows=Alt+Tab,none,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,none,Walk Through Windows (Reverse)
+Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
+Walk Through Windows of Current Application=Alt+`,none,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,none,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
+Window Above Other Windows=none,none,Conserver une fenêtre au-dessus des autres
+Window Below Other Windows=none,none,Conserver une fenêtre au-dessous des autres
+Window Close=Alt+F4,Alt+F4,Fermer une fenêtre
+Window Fullscreen=none,none,Mettre une fenêtre en plein écran
+Window Grow Horizontal=none,none,Empiler horizontalement une fenêtre en croissance
+Window Grow Vertical=none,none,Empiler verticalement une fenêtre en croissance
+Window Lower=none,none,Enrouler une fenêtre
+Window Maximize=none,none,Maximiser une fenêtre
+Window Maximize Horizontal=none,none,Maximiser horizontalement une fenêtre
+Window Maximize Vertical=none,none,Maximiser verticalement une fenêtre
+Window Minimize=none,none,Réduire une fenêtre
+Window Move=none,none,Déplacer une fenêtre
+Window No Border=none,none,Cacher une bordure de fenêtre
+Window On All Desktops=none,none,Conserver une fenêtre sur tous les bureaux
+Window One Desktop Down=none,none,Envoyer une fenêtre sur le bureau en dessous
+Window One Desktop Up=none,none,Envoyer une fenêtre sur le bureau au-dessus
+Window One Desktop to the Left=none,none,Envoyer une fenêtre sur le bureau à gauche
+Window One Desktop to the Right=none,none,Envoyer une fenêtre sur le bureau à droite
+Window Operations Menu=Alt+F3,Alt+F3,Menu des opérations de fenêtres
+Window Pack Down=none,none,Empiler une fenêtre en bas
+Window Pack Left=none,none,Empiler une fenêtre à gauche
+Window Pack Right=none,none,Empiler une fenêtre à droite
+Window Pack Up=none,none,Empiler une fenêtre en haut
+Window Quick Tile Bottom=none,none,Quick Tile Window to the Bottom
+Window Quick Tile Bottom Left=none,none,Mettre rapidement en mosaïque une fenêtre en bas et à gauche
+Window Quick Tile Bottom Right=none,none,Mettre rapidement en mosaïque une fenêtre en bas et à droite
+Window Quick Tile Left=none,none,Mettre rapidement en mosaïque une fenêtre à gauche
+Window Quick Tile Right=none,none,Mettre rapidement en mosaïque une fenêtre à droite
+Window Quick Tile Top=none,none,Quick Tile Window to the Top
+Window Quick Tile Top Left=none,none,Mettre rapidement en mosaïque une fenêtre en haut et à gauche
+Window Quick Tile Top Right=none,none,Mettre rapidement en mosaïque une fenêtre en haut et à droite
+Window Raise=none,none,Dérouler une fenêtre
+Window Resize=none,none,Redimensionner une fenêtre
+Window Shade=none,none,Enrouler une fenêtre
+Window Shrink Horizontal=none,none,Empiler horizontalement une fenêtre en réduction
+Window Shrink Vertical=none,none,Empiler verticalement une fenêtre en réduction
+Window to Desktop 1=none,none,Envoyer une fenêtre sur le bureau 1
+Window to Desktop 10=none,none,Envoyer une fenêtre sur le bureau 10
+Window to Desktop 11=none,none,Envoyer une fenêtre sur le bureau 11
+Window to Desktop 12=none,none,Envoyer une fenêtre sur le bureau 12
+Window to Desktop 13=none,none,Envoyer une fenêtre sur le bureau 13
+Window to Desktop 14=none,none,Envoyer une fenêtre sur le bureau 14
+Window to Desktop 15=none,none,Envoyer une fenêtre sur le bureau 15
+Window to Desktop 16=none,none,Envoyer une fenêtre sur le bureau 16
+Window to Desktop 17=none,none,Envoyer une fenêtre sur le bureau 17
+Window to Desktop 18=none,none,Envoyer une fenêtre sur le bureau 18
+Window to Desktop 19=none,none,Envoyer une fenêtre sur le bureau 19
+Window to Desktop 2=none,none,Envoyer une fenêtre sur le bureau 2
+Window to Desktop 20=none,none,Envoyer une fenêtre sur le bureau 20
+Window to Desktop 3=none,none,Envoyer une fenêtre sur le bureau 3
+Window to Desktop 4=none,none,Envoyer une fenêtre sur le bureau 4
+Window to Desktop 5=none,none,Envoyer une fenêtre sur le bureau 5
+Window to Desktop 6=none,none,Envoyer une fenêtre sur le bureau 6
+Window to Desktop 7=none,none,Envoyer une fenêtre sur le bureau 7
+Window to Desktop 8=none,none,Envoyer une fenêtre sur le bureau 8
+Window to Desktop 9=none,none,Envoyer une fenêtre sur le bureau 9
+Window to Next Desktop=none,none,Envoyer une fenêtre sur le bureau suivant
+Window to Next Screen=none,none,Envoyer une fenêtre sur l'écran suivant
+Window to Previous Desktop=none,none,Envoyer une fenêtre sur le bureau précédent
+Window to Previous Screen=none,none,Envoyer une fenêtre sur l'écran précédent
+Window to Screen 0=none,none,Envoyer la fenêtre sur l'écran 0
+Window to Screen 1=none,none,Envoyer la fenêtre sur l'écran 1
+Window to Screen 2=none,none,Envoyer la fenêtre sur l'écran 2
+Window to Screen 3=none,none,Envoyer la fenêtre sur l'écran 3
+Window to Screen 4=none,none,Envoyer la fenêtre sur l'écran 4
+Window to Screen 5=none,none,Envoyer la fenêtre sur l'écran 5
+Window to Screen 6=none,none,Envoyer la fenêtre sur l'écran 6
+Window to Screen 7=none,none,Envoyer la fenêtre sur l'écran 7
+_k_friendly_name=Configuration du système
+view_actual_size=Meta+0,Meta+0,Taille réelle
+view_zoom_in=Meta+=,Meta+=,Zoom avant
+view_zoom_out=Meta+-,Meta+-,Zoom arrière
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate widget 2=Alt+F1,none,Activer le composant graphique Lanceur d'application
+clear-history=none,none,Effacer l'historique du presse-papier
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Activer les actions du presse-papier
+cycleNextAction=none,none,Élément suivant de l'historique
+cyclePrevAction=none,none,Élément précédent de l'historique
+edit_clipboard=none,none,Modifier les contenus...
+manage activities=Meta+Q,Meta+Q,Activités…
+next activity=Meta+Tab,none,Walk through activities
+previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
+repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Démarrer manuellement une action concernant le presse-papier actuel
+show dashboard=Ctrl+F12,Ctrl+F12,Afficher le dashboard
+show-barcode=none,none,Afficher le code barre
+show-on-mouse-pos=none,none,Afficher Klipper à la position de la souris
+stop current activity=Meta+S,Meta+S,Arrêter l'activité actuelle
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=F12,F12,Afficher/Replier Yakuake

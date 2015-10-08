@@ -1,0 +1,12 @@
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAF9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Téléchargements/arduino-1.6.5-r5-linux64.tar.xz
+Name1[$e]=arduino-1.6.5-r5-linux64.tar.xz
+
+[Viewer]
+Height 900=400
+Width 1440=630

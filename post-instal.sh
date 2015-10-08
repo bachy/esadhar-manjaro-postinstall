@@ -22,4 +22,11 @@ if [ "$yn" != "y" ]; then
   exit
 fi
 
-pacman -S --needed --noconfirm gimp inkscape scribus fontforge
+_cwd="$(pwd)"
+
+echo "\033[35;1mPackages installation \033[0m"
+pacman -S --needed --noconfirm gimp inkscape scribus fontforge blender
+
+
+echo "\033[35;1mKDE configs \033[0m"
+rsync -vr $_cwd/config-files/ ~/.config/
