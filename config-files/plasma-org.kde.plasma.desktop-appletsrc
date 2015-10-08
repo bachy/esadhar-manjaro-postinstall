@@ -24,7 +24,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][1][Applets][15][Configuration][General]
-launchers=file:///usr/share/applications/audacity.desktop,file:///usr/share/applications/fontforge.desktop,file:///usr/share/applications/atom.desktop
+launchers=file:///usr/share/applications/atom.desktop
 
 [Containments][1][Applets][16]
 immutability=1
@@ -164,6 +164,26 @@ genericName=Presentation
 iconName=libreoffice-impress
 url=file:///usr/share/applications/libreoffice-impress.desktop
 
+[Containments][1][Applets][48]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][48][Configuration][General]
+applicationName=Arduino
+genericName=Arduino IDE
+iconName=arduino
+url=file:///usr/share/applications/arduino.desktop
+
+[Containments][1][Applets][49]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][49][Configuration][General]
+applicationName=Audacity
+genericName=Sound Editor
+iconName=audacity
+url=file:///usr/share/applications/audacity.desktop
+
 [Containments][1][Applets][5]
 immutability=1
 plugin=org.kde.plasma.systemtray
@@ -208,6 +228,26 @@ plugin=org.kde.plasma.battery
 extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier
 knownItems=org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth
 
+[Containments][1][Applets][50]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][50][Configuration][General]
+applicationName=Kdenlive
+genericName=Éditeur vidéo
+iconName=kdenlive
+url=file:///usr/share/applications/org.kde.kdenlive.desktop
+
+[Containments][1][Applets][51]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][51][Configuration][General]
+applicationName=FontForge
+genericName=Font Editor
+iconName=fontforge
+url=file:///usr/share/applications/fontforge.desktop
+
 [Containments][1][Applets][6]
 immutability=1
 plugin=org.kde.plasma.digitalclock
@@ -217,7 +257,7 @@ DialogHeight=81
 DialogWidth=1440
 
 [Containments][1][General]
-AppletOrder=2;16;38;19;45;46;47;43;44;39;40;41;42;15;3;32;5;6
+AppletOrder=2;16;38;19;45;46;47;43;44;39;40;51;41;42;50;49;48;15;3;32;5;6
 
 [Containments][35]
 activityId=831c40ae-ef08-4ec1-9238-53c7755d775a
@@ -233,4 +273,4 @@ height=900
 width=1440
 
 [General]
-immutability=2
+immutability=1

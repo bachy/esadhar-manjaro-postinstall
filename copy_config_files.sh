@@ -2,4 +2,4 @@
 
 _cwd="$(pwd)"
 
-rsync -vr --exclude-from=exclude-config-files.txt ~/.config/ $_cwd/config-files/
+rsync -vr --exclude-from=exclude-config-files.txt /home/$USER/.config/ $_cwd/config-files/
