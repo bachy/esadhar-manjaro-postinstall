@@ -27,6 +27,11 @@ _cwd="$(pwd)"
 echo "\033[35;1mPackages installation \033[0m"
 pacman -S --needed --noconfirm gimp inkscape scribus fontforge blender
 
+echo "\033[35;1mPackages installation \033[0m"
+yaourt -S arduino
+gpasswd -a $USER uucp
+gpasswd -a $USER lock
+gpasswd -a $USER tty
 
 echo "\033[35;1mKDE configs \033[0m"
 rsync -vr $_cwd/config-files/ ~/.config/
