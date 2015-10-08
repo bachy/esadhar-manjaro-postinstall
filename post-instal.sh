@@ -24,7 +24,7 @@ fi
 _cwd="$(pwd)"
 
 echo "Packages installation"
-sudo pacman -S --needed --noconfirm gimp inkscape scribus fontforge blender vim chromium firefox-firebug firefox-adblock-plus
+sudo pacman -S --needed --noconfirm gimp inkscape scribus fontforge audacity blender vim chromium firefox-firebug firefox-adblock-plus
 
 echo "Misc"
 
