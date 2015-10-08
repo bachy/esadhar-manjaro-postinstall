@@ -49,3 +49,13 @@ sudo gpasswd -a $USER tty
 
 echo "KDE configs"
 rsync -vr $_cwd/config-files/ /home/$USER/.config/
+
+echo -n "Reboot? [Y|n] "
+read yn
+yn=${yn:-y}
+if [ "$yn" != "y" ]; then
+  echo "please reboot"
+  exit
+fi
+
+reboot
