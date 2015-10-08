@@ -23,6 +23,8 @@ fi
 
 _cwd="$(pwd)"
 
+sudo pacman -Syyu
+
 echo "Packages installation"
 sudo pacman -S --needed --noconfirm gimp inkscape scribus fontforge audacity blender vim chromium firefox-firebug firefox-adblock-plus
 
