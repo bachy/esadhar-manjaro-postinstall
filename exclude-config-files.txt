@@ -1,0 +1,3 @@
+Atom/GPUCache
+Atom/Local Storage
+kwalletrc
