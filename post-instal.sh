@@ -50,7 +50,18 @@ sudo gpasswd -a $USER lock
 sudo gpasswd -a $USER tty
 
 echo "KDE configs"
-rsync -vr $_cwd/config-files/ /home/$USER/.config/
+echo -n "update all config files? [Y|n] "
+read yn
+yn=${yn:-y}
+if [ "$yn" != "y" ]; then
+  rsync -vr $_cwd/config-files/ /home/$USER/.config/
+if
+
+echo "Node box installation"
+sudo pacman -S --needed --noconfirm jdk7-openjdk apache-ant
+cd /home/$USER/Documents
+git clone git://github.com/nodebox/nodebox.git
+
 
 echo -n "Reboot? [Y|n] "
 read yn
