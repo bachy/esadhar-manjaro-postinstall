@@ -54,7 +54,7 @@ echo -n "update all config files? [Y|n] "
 read yn
 yn=${yn:-y}
 if [ "$yn" != "y" ]; then
-  rsync -vr $_cwd/config-files/ /home/$USER/.config/
+  rsync -vr $_cwd/config-files/ /home/$USER/
 fi
 
 echo "Node box installation"
