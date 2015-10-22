@@ -1,0 +1,10 @@
+[GENERAL]
+delay=0
+filename[$e]=file://$HOME/snapshot1.png
+includeDecorations=true
+includePointer=false
+mode=0
+
+[MainWindow]
+Height 900=852
+Width 1440=1440

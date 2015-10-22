@@ -1,0 +1,146 @@
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2015-09-25T12:04:18 drkonqi-rename-config-section.upd: Found new update 'kde-4.11'
+2015-09-25T12:04:18 drkonqi-rename-config-section.upd: File 'drkonqirc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2015-09-25T12:04:18 kded.upd: Found new update 'kde3.0'
+2015-09-25T12:04:18 kded.upd: Skipping update 'kde3.0'
+2015-09-25T12:04:18 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kpgp.upd' for new updates
+2015-09-25T12:04:18 kpgp.upd: Found new update 'preKDE3_a'
+2015-09-25T12:04:18 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2015-09-25T12:04:18 kpgp.upd: Found new update '3.1-1'
+2015-09-25T12:04:18 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/okular.upd' for new updates
+2015-09-25T12:04:18 okular.upd: Found new update 'sep_settings'
+2015-09-25T12:04:18 okular.upd: File 'okularpartrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/adjustlevelstool.upd' for new updates
+2015-09-25T12:04:18 adjustlevelstool.upd: Found new update 'adjustlevels2.6.0'
+2015-09-25T12:04:18 adjustlevelstool.upd: File 'digikamrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2015-09-25T12:04:18 kio_help.upd: Found new update 'kde3_2'
+2015-09-25T12:04:18 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2015-09-25T12:04:18 [Script] mv: impossible d'évaluer « /home/multi/.kde4/share/apps/kio_help/cache »: Aucun fichier ou dossier de ce type
+2015-09-25T12:04:18 [Script] rmdir: impossible de de supprimer « /home/multi/.kde4/share/apps/kio_help »: Aucun fichier ou dossier de ce type
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/newmailnotifier.upd' for new updates
+2015-09-25T12:04:18 newmailnotifier.upd: Found new update 'initial-newmailnotifier-migration'
+2015-09-25T12:04:18 newmailnotifier.upd: File 'kmail2rc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/yakuake.upd' for new updates
+2015-09-25T12:04:18 yakuake.upd: Found new update '2.9.9-startupnotification'
+2015-09-25T12:04:18 yakuake.upd: Running script 'yakuake-2.9.9-startupnotification.pl'
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2015-09-25T12:04:18 devicepreference.upd: Found new update 'DevicesMovedToPlatformPlugin'
+2015-09-25T12:04:18 devicepreference.upd: Running script 'phonon_devicepreference_update'
+2015-09-25T12:04:18 devicepreference.upd: Found new update 'DevicesUIDsChanged'
+2015-09-25T12:04:18 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/grantleetheme.upd' for new updates
+2015-09-25T12:04:18 grantleetheme.upd: Found new update 'initial-grantlee-theme-migration'
+2015-09-25T12:04:18 grantleetheme.upd: File 'kmail2rc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kget.upd' for new updates
+2015-09-25T12:04:18 kget.upd: Found new update '2.8.0'
+2015-09-25T12:04:18 kget.upd: File 'kgetrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kget.upd: Found new update '2.8.0/multiseg'
+2015-09-25T12:04:18 kget.upd: File 'kget_multisegkiofactory.rc' does not exist or empty, skipping
+2015-09-25T12:04:18 kget.upd: Found new update '2.8.0/sensitive'
+2015-09-25T12:04:18 kget.upd: File 'kgetrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kget.upd: Found new update '2.8.0/limitdownloads'
+2015-09-25T12:04:18 kget.upd: File 'kgetrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/konsole.upd' for new updates
+2015-09-25T12:04:18 konsole.upd: Found new update '2.9.0-global-options'
+2015-09-25T12:04:18 konsole.upd: Skipping update '2.9.0-global-options'
+2015-09-25T12:04:18 konsole.upd: File 'konsolerc' does not exist or empty, skipping
+2015-09-25T12:04:18 konsole.upd: Found new update '2.9.0-colorscheme-bold-key'
+2015-09-25T12:04:18 konsole.upd: Running script 'konsole-2.9.0-colorscheme-bold-key.sh'
+2015-09-25T12:04:18 konsole.upd: Found new update '2.10.0-remove-menuindex-from-profiles'
+2015-09-25T12:04:18 konsole.upd: Running script 'konsole-2.10.0-remove-menuindex-from-profiles.sh'
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/mailtransports.upd' for new updates
+2015-09-25T12:04:18 mailtransports.upd: Found new update 'initial-kmail-migration'
+2015-09-25T12:04:18 mailtransports.upd: File 'kmailrc' does not exist or empty, skipping
+2015-09-25T12:04:18 mailtransports.upd: Found new update 'initial-knode-migration'
+2015-09-25T12:04:18 mailtransports.upd: File 'knoderc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2015-09-25T12:04:18 konsole_remove_background_mode.upd: Found new update '2.11.0-remove-background-mode'
+2015-09-25T12:04:18 konsole_remove_background_mode.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2015-09-25T12:04:18 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2015-09-25T12:04:18 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2015-09-25T12:04:18 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kcookiescfg.upd: Found new update 'kde4.10/git'
+2015-09-25T12:04:18 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kalarm.upd' for new updates
+2015-09-25T12:04:18 kalarm.upd: Found new update '1.9.5'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '1.9.9'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '1.9.12'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '2.0.0'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '2.0.2'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '2.1.5'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kalarm.upd: Found new update '2.3.2'
+2015-09-25T12:04:18 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2015-09-25T12:04:18 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2015-09-25T12:04:18 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2015-09-25T12:04:18 [Script] rm: impossible de supprimer « /home/multi/.kde4//share/config/ksslcertificatemanager »: Aucun fichier ou dossier de ce type
+2015-09-25T12:04:18 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2015-09-25T12:04:18 kioslave.upd: Found new update 'kde2.2/r1'
+2015-09-25T12:04:18 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-09-25T12:04:18 kioslave.upd: Skipping update 'kde2.2/r1'
+2015-09-25T12:04:18 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-09-25T12:04:18 kioslave.upd: Found new update 'kde2.2/r2'
+2015-09-25T12:04:18 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-09-25T12:04:18 kioslave.upd: Found new update 'kde2.2/r3'
+2015-09-25T12:04:18 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2015-09-25T12:04:18 kwallet-4.13.upd: Found new update 'kde4.13'
+2015-09-25T12:04:18 kwallet-4.13.upd: File 'kwalletrc' does not exist or empty, skipping
+2015-09-25T12:04:18 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2015-09-25T12:04:18 kuriikwsfilter.upd: Found new update 'post-kde3.1/cvs'
+2015-09-25T12:04:18 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping
+2015-09-25T12:04:18 kuriikwsfilter.upd: Found new update 'pre-kde4.9'
+2015-09-25T12:04:18 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping
+2015-10-06T14:43:44 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2015-10-06T14:43:44 kded.upd: Found new update 'kde3.0'
+2015-10-06T14:43:44 kded.upd: Skipping update 'kde3.0'
+2015-10-06T14:43:44 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2015-10-06T14:43:44 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2015-10-06T14:43:44 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2015-10-06T14:43:44 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2015-10-06T14:43:44 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2015-10-06T14:43:44 kioslave.upd: Found new update 'kde2.2/r1'
+2015-10-06T14:43:44 kioslave.upd: Skipping update 'kde2.2/r1'
+2015-10-06T14:43:44 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-10-06T14:44:27 Checking update-file '/usr/share/apps/kconf_update/mailtransports.upd' for new updates
+2015-10-06T14:44:29 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2015-10-06T14:44:29 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2015-10-06T14:44:29 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2015-10-06T14:44:29 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2015-10-06T14:45:21 Checking update-file '/usr/share/apps/kconf_update/adjustlevelstool.upd' for new updates
+2015-10-06T14:47:04 Checking update-file '/usr/share/apps/kconf_update/okular.upd' for new updates
+2015-10-06T14:47:06 Checking update-file '/usr/share/apps/kconf_update/kget.upd' for new updates
+2015-10-06T14:47:28 Checking update-file '/usr/share/apps/kconf_update/kpgp.upd' for new updates
+2015-10-06T14:47:28 Checking update-file '/usr/share/apps/kconf_update/newmailnotifier.upd' for new updates
+2015-10-06T14:47:28 Checking update-file '/usr/share/apps/kconf_update/grantleetheme.upd' for new updates
+2015-10-06T14:47:32 Checking update-file '/usr/share/apps/kconf_update/kalarm.upd' for new updates
+2015-10-22T10:59:21 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2015-10-22T10:59:21 kded.upd: Found new update 'kde3.0'
+2015-10-22T10:59:21 kded.upd: Skipping update 'kde3.0'
+2015-10-22T10:59:21 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2015-10-22T10:59:21 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2015-10-22T10:59:21 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2015-10-22T10:59:21 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2015-10-22T10:59:21 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2015-10-22T10:59:21 kioslave.upd: Found new update 'kde2.2/r1'
+2015-10-22T10:59:21 kioslave.upd: Skipping update 'kde2.2/r1'
+2015-10-22T10:59:21 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-10-22T10:59:26 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2015-10-22T10:59:26 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2015-10-22T10:59:26 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2015-10-22T10:59:26 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2015-10-22T10:59:58 Checking update-file '/usr/share/apps/kconf_update/okular.upd' for new updates
+2015-10-22T10:59:58 Checking update-file '/usr/share/apps/kconf_update/kget.upd' for new updates

@@ -1,0 +1,16 @@
+<!DOCTYPE kpartgui SYSTEM 'kpartgui.dtd'>
+<gui version="1" name="kipiplugin_kioimportexport">
+ <MenuBar>
+  <Menu name="Import">
+   <text>&amp;Import</text>
+   <Action group="kipi_import_group" name="kioimport"/>
+  </Menu>
+  <Menu name="Export">
+   <text>&amp;Export</text>
+   <Action group="kipi_export_group" name="kioexport"/>
+  </Menu>
+ </MenuBar>
+ <ToolBar name="mainToolBar">
+  <text>Main Toolbar</text>
+ </ToolBar>
+</gui>

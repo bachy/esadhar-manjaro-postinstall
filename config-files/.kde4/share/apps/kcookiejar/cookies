@@ -1,0 +1,5 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.google.com]
+accounts.google.com  ".google.com"        "/"          1461221344    0 NID                  6    72=rkMvzXv6vtWRd9jRBrXHUrJm16yp40qyuOlHEF522WWYYM7fO0n66dem7wiRVb-yuoqyGz3ZtW_SaRizGQTrFqBxy6ZL2VS5_mwkMfb8Jpffe65rOYowf-D-hel4-8la

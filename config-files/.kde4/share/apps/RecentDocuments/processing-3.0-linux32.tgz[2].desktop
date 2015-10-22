@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-compressed-tar
+Name=processing-3.0-linux32.tgz
+Type=Link
+URL[$e]=file:///tmp/processing-3.0-linux32.tgz
+X-KDE-LastOpenedWith=org
