@@ -1,0 +1,32 @@
+L'extension « LaTeX » n'a pas été chargée, car une dépendance est manquante.
+Dépendance :
+  type : executable
+  emplacement : chemin
+  chaîne : latex
+
+L'extension « LaTeX » n'a pas été chargée, car une dépendance est manquante.
+Dépendance :
+  type : executable
+  emplacement : chemin
+  chaîne : dvips
+
+L'extension « XFIG Input » n'a pas été chargée, car une dépendance est manquante.
+Dépendance :
+  type : executable
+  emplacement : chemin
+  chaîne : fig2dev
+
+L'extension « Sketch Input » n'a pas été chargée, car une dépendance est manquante.
+Dépendance :
+  type : executable
+  emplacement : chemin
+  chaîne : skconvert
+
+L'extension « Dia Input » n'a pas été chargée, car une dépendance est manquante.
+Dépendance :
+  type : executable
+  emplacement : chemin
+  chaîne : dia
+  description : Pour pouvoir importer des fichiers Dia, Dia doit aussi être installé. Vous pouvez obtenir Dia sur http://www.gnome.org/projects/dia/ 
+
+L'extension « Win32 Vector Print » n'a pas été chargée, car l'extension ne fonctionne qu'avec Windows. C'est le résultat d'un fichier .inx incorrect pour cette extension. Un fichier .inx incorrect peut être du à un problème d'installation d'Inkscape.

@@ -1,0 +1,21 @@
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[filetree]
+editShade=211,190,222
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=187,151,205

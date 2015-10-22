@@ -1,8 +1,8 @@
 [General]
-history=term,sys,konso,fire,ter
+history=konso,fire,processing,ter,term,sys
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_org.kde.konsole.desktop
+LaunchCounts=1 shell_processing,3 services_processing.desktop,1 services_org.kde.konsole.desktop
 
 [Plugins]
 kabccontactsEnabled=false

@@ -278,6 +278,9 @@ location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.image
 
+[Containments][35][General]
+ToolBoxButtonY=19
+
 [Containments][35][Wallpaper][org.kde.image][General]
 height=900
 width=1440

@@ -28,3 +28,6 @@ Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]
 Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:55]
+Split=false

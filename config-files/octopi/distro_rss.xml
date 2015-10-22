@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manjaro Linux</title>
+    <description>Enjoy the simplicity</description>
+    <link>https://manjaro.github.io</link>
+    <atom:link href="https://manjaro.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Manjaro JWM Edition 15.09-1 released</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-jwm-15.09.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Manjaro Community is proud to announce the release of our &lt;strong&gt;JWM Edition 15.09-1 (Bellatrix)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;JWM (Joe’s Window Manager) is a lightweight stacking window manager for the X Window System written by Joe Wingbermuehle. JWM is &lt;strong&gt;written in C&lt;/strong&gt; and uses only Xlib at a minimum. Configuration is by editing an XML file - no graphical configuration is supplied.&lt;/p&gt;
+
+&lt;p&gt;It features our well-known tools and graphical interfaces in a mix of fresh artwork from our community. This release comes with our advanced graphical installer &lt;strong&gt;Calamares&lt;/strong&gt; aswell as our CLI-installer. &lt;strong&gt;Stable branch&lt;/strong&gt; was used to create these install media.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux Kernel 4.1.10-1&lt;/li&gt;
+  &lt;li&gt;JWM 2.3.2-1&lt;/li&gt;
+  &lt;li&gt;mhwd 0.5.6-1&lt;/li&gt;
+  &lt;li&gt;Manjaro Settings Manager 0.4.12-1&lt;/li&gt;
+  &lt;li&gt;32bit version RAM footprint is now just 107MiB RAM and 64bit 146MiB RAM&lt;/li&gt;
+  &lt;li&gt;32bit version SIZE 779,09MiB and 64bits911,21MiB&lt;/li&gt;
+  &lt;li&gt;Pamac 2.4.2-2&lt;/li&gt;
+  &lt;li&gt;Compton 0.1_beta2.r82.gd7f95b5-1&lt;/li&gt;
+  &lt;li&gt;Conky 1.10.0-5&lt;/li&gt;
+  &lt;li&gt;Dmenu 4.5-8&lt;/li&gt;
+  &lt;li&gt;Pale Moon 25.7.1-1&lt;/li&gt;
+  &lt;li&gt;XChat 2.8.8-15&lt;/li&gt;
+  &lt;li&gt;LXMusic 0.4.6-1.1&lt;/li&gt;
+  &lt;li&gt;LightDM 1:1.16.3-1&lt;/li&gt;
+  &lt;li&gt;i3lock 2.7-1&lt;/li&gt;
+  &lt;li&gt;cbatticon 1.5.0-1&lt;/li&gt;
+  &lt;li&gt;Sakura 3.3.0-1&lt;/li&gt;
+  &lt;li&gt;Medit 1.2.0-1&lt;/li&gt;
+  &lt;li&gt;SpaceFM 1.0.3-1&lt;/li&gt;
+  &lt;li&gt;Prelink 20130503-5&lt;/li&gt;
+  &lt;li&gt;Scripts for AUR, printing, firewall, JDK and multimedia&lt;/li&gt;
+  &lt;li&gt;JWM Thin Blue and GTK ME1 Themes&lt;/li&gt;
+  &lt;li&gt;Icon Ultra Flat and RezoWhite Mouse Themes&lt;/li&gt;
+  &lt;li&gt;Collection Wallpapers Charlie-Henson &lt;/li&gt;
+  &lt;li&gt;README Manjaro JWM Edition 15.09&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;new&quot;&gt;New:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pacli&lt;/strong&gt; (bash frontend for pacman yaourt) 17515.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;note&quot;&gt;Note:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is strongly recommended to study the &lt;strong&gt;README file&lt;/strong&gt; Manjaro JWM Edition 15.09 in /home.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Conky&lt;/strong&gt; comes with temperature of Vitória (ES) city. To change that it is recommended to read item 11 of the README Manjaro JWM Edition 15.09.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=27220.0&quot;&gt;Forum post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2015.09-1/Code%20111015/&quot;&gt;Download here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;regards
+Holmes, Maintainer Manjaro JWM Edition&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-JWM-15.09-released/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-JWM-15.09-released/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro-Fluxbox 15.10 released</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-fluxbox-15.10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Manjaro Community is proud to announce the release of our &lt;strong&gt;Fluxbox edition 15.10&lt;/strong&gt;&lt;br /&gt;
+Graphically this desktop has been completely redesigned with the new icon-, gtk- and wallpaper-themes &lt;strong&gt;Numix-Reborn&lt;/strong&gt; by UgoYak who has also contributed corresponding &lt;strong&gt;Plymouth-bootscreen&lt;/strong&gt; and &lt;strong&gt;Oblogout-button theming&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plank&lt;/strong&gt; aswell as the advanced &lt;strong&gt;Dmenu-manjaro&lt;/strong&gt; are your new application launchers and with &lt;strong&gt;fbmenugen&lt;/strong&gt; the right-click-menu can now be regenerated automatically when you add new software.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Manjaro-Welcome&lt;/strong&gt;, the image viewer &lt;strong&gt;Geeqie&lt;/strong&gt; and &lt;strong&gt;Simple-Scan&lt;/strong&gt; have been added,&lt;br /&gt;
+both graphical installers &lt;strong&gt;Thus&lt;/strong&gt; and &lt;strong&gt;Calamares&lt;/strong&gt; are included aswell as the well-proven &lt;strong&gt;CLI-installer&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;You have the choice between init systems &lt;strong&gt;Systemd&lt;/strong&gt; and &lt;strong&gt;OpenRC&lt;/strong&gt;,&lt;br /&gt;
+both architectures &lt;strong&gt;32&lt;/strong&gt; and &lt;strong&gt;64bit&lt;/strong&gt; are available.  &lt;/p&gt;
+
+&lt;p&gt;Install media have been created including the latest Manjaro- and Arch Linux-updates on the &lt;strong&gt;stable branch&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;kind regards&lt;br /&gt;
+Bernhard Landauer, Maintainer Manjaro-Fluxbox  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=27152.0&quot;&gt;Forum post&lt;/a&gt;  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/manjaro-fluxbox/files/manjaro-fluxbox-15.10/&quot;&gt;Download here&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-Fluxbox-15.10-released/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-Fluxbox-15.10-released/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Update 2015-10-08 (stable)</title>
+        <description>&lt;p&gt;We are happy to announce our &lt;strong&gt;second update&lt;/strong&gt; for Manjaro 15.09 (Bellatrix)!&lt;/p&gt;
+
+&lt;p&gt;With this we repacked most of our packages against &lt;strong&gt;python 3.5&lt;/strong&gt;. Please check if we have missed some. &lt;strong&gt;LibreOffice&lt;/strong&gt; Fresh is now at &lt;strong&gt;5.0.2&lt;/strong&gt;, &lt;strong&gt;Plasma&lt;/strong&gt; at &lt;strong&gt;5.4.2&lt;/strong&gt;. Also some of our kernels got updated: &lt;strong&gt;3.12.49&lt;/strong&gt;, &lt;strong&gt;3.16.7.18&lt;/strong&gt;, &lt;strong&gt;3.18.22&lt;/strong&gt;, &lt;strong&gt;4.1.10&lt;/strong&gt;, &lt;strong&gt;4.2.3&lt;/strong&gt; and &lt;strong&gt;4.3rc4&lt;/strong&gt;. We updated &lt;strong&gt;pamac&lt;/strong&gt; to &lt;strong&gt;2.4.2&lt;/strong&gt;, &lt;strong&gt;octopi&lt;/strong&gt; to &lt;strong&gt;0.7.4&lt;/strong&gt; and fixed some squashfs compression issue in our manjaro-tools for lower kernels than 4.0.&lt;/p&gt;
+
+&lt;p&gt;Also we ship the usual Archlinux upstream fixes (Wed Oct 7 07:36:09 CEST 2015)&lt;/p&gt;
+
+&lt;p&gt;It is always good to check for updated packages, even we don’t notify you about them. As usual people using our testing branch will help us to get snaps over to our stable branch almost smoothly. For notifications on daily bases please take a look at our &lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please give us feedback and report any findings with this update.&lt;/p&gt;
+
+&lt;p&gt;Kind regards,
+Philip Müller and the Manjaro Development Team&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;current-supported-kernels&quot;&gt;Current supported kernels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux310 3.10.90&lt;/li&gt;
+  &lt;li&gt;Linux312 3.12.48&lt;/li&gt;
+  &lt;li&gt;Linux313 3.13.11.27&lt;/li&gt;
+  &lt;li&gt;Linux314 3.14.54&lt;/li&gt;
+  &lt;li&gt;Linux316 3.16.7.18&lt;/li&gt;
+  &lt;li&gt;Linux318 3.18.22&lt;/li&gt;
+  &lt;li&gt;Linux319 3.19.8.7&lt;/li&gt;
+  &lt;li&gt;Linux41  4.1.10&lt;/li&gt;
+  &lt;li&gt;Linux42  4.2.3 &lt;code&gt;(not recommended for catalyst)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Linux43  4.3-rc4 &lt;code&gt;(not recommended for general usage)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;package-changes&quot;&gt;Package changes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;community i686:  858 new and 812 removed package(s)&lt;/li&gt;
+  &lt;li&gt;community x86_64:  859 new and 817 removed package(s)&lt;/li&gt;
+  &lt;li&gt;core i686:  18 new and 19 removed package(s)&lt;/li&gt;
+  &lt;li&gt;core x86_64:  18 new and 19 removed package(s)&lt;/li&gt;
+  &lt;li&gt;extra i686:  461 new and 457 removed package(s)&lt;/li&gt;
+  &lt;li&gt;extra x86_64:  462 new and 458 removed package(s)&lt;/li&gt;
+  &lt;li&gt;multilib x86_64:  25 new and 21 removed package(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=27098.0&quot;&gt;Talk about this update&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/Week-of-Mon-20151005/004451.html&quot;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Update-2015-10-08_(stable)/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Update-2015-10-08_(stable)/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Cinnamon Edition 15.09-1 released</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-cinnamon-15.09-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Manjaro community is proud to present a new Manjaro Cinnamon Edition installation media.&lt;/p&gt;
+
+&lt;p&gt;With the release 15.09-1 we changed our visual approach on things within Cinnamon. For instance we now use standard Plymouth, the background got changed in LightDM. We took also a spin on our wallpapers and icon-themes. Cinnamon got updated to the latest 2.6 series with all its enhancements.&lt;/p&gt;
+
+&lt;p&gt;Package highlights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maia theme&lt;/li&gt;
+  &lt;li&gt;4.1 LTS kernel&lt;/li&gt;
+  &lt;li&gt;Plymouth&lt;/li&gt;
+  &lt;li&gt;Libreoffice 5.0&lt;/li&gt;
+  &lt;li&gt;Latest Manjaro tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As usual, this release comes with our advanced graphical installers Thus and Calamares, as well as our CLI-installer. Default kernel is linux41. Stable branch was used to create these install medias. Please give us feedback and report any issues with this release.&lt;/p&gt;
+
+&lt;p&gt;kind regards
+Ringo de Kroon, Maintainer Manjaro-Cinnamon&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=27071.0&quot;&gt;Forum post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sourceforge.net/projects/manjarolinux/files/community/Cinnamon/2015.10/&quot;&gt;Download here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-Cinnamon-15.09-1.released/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-Cinnamon-15.09-1.released/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Logo Contest</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/drafts.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Manjaro will get some great innovations soon and maybe also a new logo. We are asking our great community to help us choose a new design. If you are a designer or you have some graphical skills, please feel free to propose a logo draft. Help us and send us great logos, ideas and choose your favourite designs.&lt;/p&gt;
+
+&lt;p&gt;Although the inspiration for the name originates from Mount Kilimanjaro. Maybe we can include a mountain into the new logo as we already tried in our drafts.&lt;/p&gt;
+
+&lt;p&gt;So get creative. You can either post your work in our forum or mail it to &lt;strong&gt;support@manjaro.org&lt;/strong&gt;. The contest will take place till &lt;strong&gt;14.10.2015 18:00 CEST&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=27040.0&quot;&gt;Forum post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-Logo-Contest/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-Logo-Contest/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro JWM Edition 41015 released</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-jwm-41015.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Manjaro community is proud to present a new Manjaro JWM Edition installation media.&lt;/p&gt;
+
+&lt;p&gt;JWM (Joe’s Window Manager) is a lightweight stacking window manager for the X Window System written by Joe Wingbermuehle. JWM is written in C and uses only Xlib at a minimum. Configuration is by editing an XML file - no graphical configuration is supplied.&lt;/p&gt;
+
+&lt;p&gt;To make it much easier to use this window manager, Holmes from Manjaro Brasil decided to create another nice install media for Manjaro Linux. It features our well-known tools and graphical interfaces in a mix of fresh artwork from our community.&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4.1 LTS Kernel&lt;/li&gt;
+  &lt;li&gt;JWM 2.3.2&lt;/li&gt;
+  &lt;li&gt;32bit version RAM footprint is now just &lt;strong&gt;107MB RAM&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;64bit version RAM footprint is now at &lt;strong&gt;147MB RAM&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Compton&lt;/li&gt;
+  &lt;li&gt;.jwmrc file got reworked&lt;/li&gt;
+  &lt;li&gt;Reorganization of menu, tray, start, theme, keys, groups and preferences&lt;/li&gt;
+  &lt;li&gt;Pale Moon as webbrowser&lt;/li&gt;
+  &lt;li&gt;XChat&lt;/li&gt;
+  &lt;li&gt;LXMusic&lt;/li&gt;
+  &lt;li&gt;Scrot&lt;/li&gt;
+  &lt;li&gt;i3lock&lt;/li&gt;
+  &lt;li&gt;JWM Thin Blue and GTK ME1 themes&lt;/li&gt;
+  &lt;li&gt;Icon Ultra Flat theme and RezoWhite mouse theme&lt;/li&gt;
+  &lt;li&gt;LightDM&lt;/li&gt;
+  &lt;li&gt;New Collection of wallpapers&lt;/li&gt;
+  &lt;li&gt;cbatticon&lt;/li&gt;
+  &lt;li&gt;Calamares as graphical installer&lt;/li&gt;
+  &lt;li&gt;Dunst&lt;/li&gt;
+  &lt;li&gt;Scripts for AUR, printing, firewall, JDK, Multimedia, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Updates:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pale Moon (replaced Firefox)&lt;/li&gt;
+  &lt;li&gt;SpaceFM (replaced SpaceFM-Gtk2)&lt;/li&gt;
+  &lt;li&gt;New conky&lt;/li&gt;
+  &lt;li&gt;README_Manjaro_JWM_Edition.pdf updated&lt;/li&gt;
+  &lt;li&gt;JWM updated&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=25139.msg227132#msg227132&quot;&gt;Forum post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/manjarolinux/files/community/JWM/2015.10/&quot;&gt;Download here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-JWM-41015.released/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-JWM-41015.released/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Update 2015-10-04 (testing)</title>
+        <description>&lt;p&gt;I’m happy to announce &lt;strong&gt;another review&lt;/strong&gt; of Manjaro 15.09 (Bellatrix)!&lt;/p&gt;
+
+&lt;p&gt;With this we repacked most of our packages against &lt;strong&gt;python 3.5&lt;/strong&gt;. Please check if we have missed some. Also some of our kernels got updated: &lt;strong&gt;3.18.22&lt;/strong&gt;, &lt;strong&gt;4.1.10&lt;/strong&gt; and &lt;strong&gt;4.2.3&lt;/strong&gt;. Last but not least we updated &lt;strong&gt;pamac&lt;/strong&gt; to &lt;strong&gt;2.4.2&lt;/strong&gt; and fixed some squashfs compression issue in our manjaro-tools for lower kernels than 4.0.&lt;/p&gt;
+
+&lt;p&gt;Also we ship the usual Archlinux upstream fixes (Sun Oct 4 08:25:34 CEST 2015)&lt;/p&gt;
+
+&lt;p&gt;It is always good to check for updated packages, even we don’t notify you about them. As usual people using our testing branch will help us to get snaps over to our stable branch almost smoothly. For notifications on daily bases please take a look at our &lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please give us feedback and report any findings with this update.&lt;/p&gt;
+
+&lt;p&gt;Kind regards,
+Philip Müller and the Manjaro Development Team&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;current-supported-kernels&quot;&gt;Current supported kernels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux310 3.10.90&lt;/li&gt;
+  &lt;li&gt;Linux312 3.12.48&lt;/li&gt;
+  &lt;li&gt;Linux313 3.13.11.27&lt;/li&gt;
+  &lt;li&gt;Linux314 3.14.54&lt;/li&gt;
+  &lt;li&gt;Linux316 3.16.7.17&lt;/li&gt;
+  &lt;li&gt;Linux318 3.18.22&lt;/li&gt;
+  &lt;li&gt;Linux319 3.19.8.7&lt;/li&gt;
+  &lt;li&gt;Linux41  4.1.10&lt;/li&gt;
+  &lt;li&gt;Linux42  4.2.3 &lt;code&gt;(not recommended for catalyst)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Linux43  4.3-rc3 &lt;code&gt;(not recommended for general usage)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;package-changes&quot;&gt;Package changes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;testing community i686:  788 new and 759 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing community x86_64:  789 new and 763 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing core i686:  11 new and 12 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing core x86_64:  11 new and 12 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing extra i686:  272 new and 272 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing extra x86_64:  273 new and 273 removed package(s)&lt;/li&gt;
+  &lt;li&gt;testing multilib x86_64:  19 new and 15 removed package(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26892.0&quot;&gt;Talk about this update&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/Week-of-Mon-20150928/004394.html&quot;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Update-2015-10-04_(testing)/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Update-2015-10-04_(testing)/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Gnome 15.09 released</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-gnome-0.8.13.1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Manjaro community is proud to present another update to the Gnome Edition installation media.&lt;/p&gt;
+
+&lt;p&gt;This release keeps to the style of the 15.09 release being that it is highly vanilla, but of course is up-to-date at the time of build and includes the latest Manjaro back-end infrastructure. Note this means a very vanilla Gnome configuration, it doesn’t mean ‘minimal’, the full set of Gnome software and other apps are provided out-of-the-box.&lt;/p&gt;
+
+&lt;p&gt;This release is produced based on the &lt;a href=&quot;https://manjaro.github.io/Update-2015-10-02_(stable)/&quot;&gt;2nd of October stable branch update&lt;/a&gt;, a few highlights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gnome 3.16.7&lt;/li&gt;
+  &lt;li&gt;Linux kernel 4.1.9 LTS&lt;/li&gt;
+  &lt;li&gt;systemd 226&lt;/li&gt;
+  &lt;li&gt;Xorg-server 1.17.2+fixes&lt;/li&gt;
+  &lt;li&gt;Mesa 11.0.2&lt;/li&gt;
+  &lt;li&gt;Firefox 41.0.2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further updates for some of these components are already available in our respositories.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26851.0&quot;&gt;Forum post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/manjarolinux/files/community/Gnome/2015.09/&quot;&gt;Download here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-Gnome-15.09-released/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-Gnome-15.09-released/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Update 2015-10-02 (stable)</title>
+        <description>&lt;p&gt;We are happy to announce our &lt;strong&gt;first update&lt;/strong&gt; for Manjaro 15.09 (Bellatrix)!&lt;/p&gt;
+
+&lt;p&gt;With this we updated Mesa to 11 series, repacked pulseaudio 7.0, linux310 to 3.10.90, linux314 3.14.54, linux41 to 4.1.9, linux42 to 4.2.2, linux43 to rc3, updated firefox, thunderbird, added pulseaudio60 6.0 package for users having issues with the newer 7 series, Calamares is now at his second bugfix release for 1.1.4 and Octopi got updated to version 0.7.3.&lt;/p&gt;
+
+&lt;p&gt;Also we ship the usual Archlinux upstream fixes (Thu Oct 1 17:52:23 CEST 2015)&lt;/p&gt;
+
+&lt;p&gt;It is always good to check for updated packages, even we don’t notify you about them. As usual people using our testing branch will help us to get snaps over to our stable branch almost smoothly. For notifications on daily bases please take a look at our &lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/&quot;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please give us feedback and report any findings with this update.&lt;/p&gt;
+
+&lt;p&gt;Kind regards,
+Philip Müller and the Manjaro Development Team&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;current-supported-kernels&quot;&gt;Current supported kernels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux310 3.10.90&lt;/li&gt;
+  &lt;li&gt;Linux312 3.12.48&lt;/li&gt;
+  &lt;li&gt;Linux313 3.13.11.27&lt;/li&gt;
+  &lt;li&gt;Linux314 3.14.54&lt;/li&gt;
+  &lt;li&gt;Linux316 3.16.7.17&lt;/li&gt;
+  &lt;li&gt;Linux318 3.18.21&lt;/li&gt;
+  &lt;li&gt;Linux319 3.19.8.7&lt;/li&gt;
+  &lt;li&gt;Linux41  4.1.9&lt;/li&gt;
+  &lt;li&gt;Linux42  4.2.2 &lt;code&gt;(not recommended for catalyst)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Linux43  4.3-rc3 &lt;code&gt;(not recommended for general usage)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;package-changes&quot;&gt;Package changes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;community i686:  116 new and 93 removed package(s)&lt;/li&gt;
+  &lt;li&gt;community x86_64:  116 new and 92 removed package(s)&lt;/li&gt;
+  &lt;li&gt;core i686:  20 new and 20 removed package(s)&lt;/li&gt;
+  &lt;li&gt;core x86_64:  20 new and 20 removed package(s)&lt;/li&gt;
+  &lt;li&gt;extra i686:  173 new and 168 removed package(s)&lt;/li&gt;
+  &lt;li&gt;extra x86_64:  173 new and 169 removed package(s)&lt;/li&gt;
+  &lt;li&gt;multilib x86_64:  9 new and 9 removed package(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26822.0&quot;&gt;Talk about this update&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.manjaro.org/pipermail/manjaro-packages/Week-of-Mon-20150928/004360.html&quot;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Update-2015-10-02_(stable)/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Update-2015-10-02_(stable)/</guid>
+      </item>
+    
+      <item>
+        <title>Manjaro Community Editions 15.09</title>
+        <description>&lt;p&gt;Following the official release of &lt;strong&gt;Manjaro 15.09 Bellatrix&lt;/strong&gt; we are proud to present three more &lt;strong&gt;updated Community Editions&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;h2 id=&quot;manjaro-i3&quot;&gt;Manjaro-i3&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-i3-15.09.jpg&quot; /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26700.msg225666#msg225666&quot;&gt;release notes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;manjaro-lxde&quot;&gt;Manjaro-Lxde&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-lxde-15.09.jpg&quot; /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26634.msg225279#msg225279&quot;&gt;release notes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;h2 id=&quot;manjaro-lxqt&quot;&gt;Manjaro-Lxqt&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://manjaro.github.io/images/manjaro-lxqt-15.09.jpg&quot; /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://forum.manjaro.org/index.php?topic=26636.msg225284#msg225284&quot;&gt;release notes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://sourceforge.net/projects/manjarolinux/files/community/&quot;&gt;Download here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+        <link>https://manjaro.github.io/Manjaro-Community-Editions-15.09/</link>
+        <guid isPermaLink="true">https://manjaro.github.io/Manjaro-Community-Editions-15.09/</guid>
+      </item>
+    
+  </channel>
+</rss>

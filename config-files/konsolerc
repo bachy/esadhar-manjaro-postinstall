@@ -9,9 +9,9 @@ Favorites=Shell.profile
 
 [MainWindow]
 Height 900=852
-State=AAAA/wAAAAD9AAAAAAAAAtoAAAM3AAAABAAAAAQAAAAIAAAACPwAAAAA
+State=AAAA/wAAAAD9AAAAAAAABR4AAAM3AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1440=730
+Width 1440=1310
 
 [Notification Messages]
 CloseAllTabs=true
