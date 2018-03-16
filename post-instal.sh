@@ -25,8 +25,41 @@ _cwd="$(pwd)"
 
 sudo pacman -Syyu
 
+echo "I love candy! (pacman)"
+sudo sed -i.back 's/^#Color$/Color/' /etc/pacman.conf
+sudo sed -i.back 's/^#TotalDownload$/TotalDownload\nILoveCandy/' /etc/pacman.conf
+# sudo sed -i.back 's/.*\[options\].*/&\nILoveCandy/' /etc/pacman.conf
+
+echo "install avahi"
+sudo pacman -S --needed --noconfirm -q avahi nss-mdns
+echo "configure avahi"
+sudo systemctl enable avahi-daemon
+sudo systemctl start avahi-daemon
+sudo sed -i.back 's/hosts: files dns myhostname/hosts: files mdns_minimal [NOTFOUND=return] dns myhostname/' /etc/nsswitch.conf
+
+echo "Kde improvement"
+sudo pacman -S --needed --noconfirm dolphin-plugins kdenetworks-sharing kdeplasma-addons
+
 echo "Packages installation"
-sudo pacman -S --needed --noconfirm gimp inkscape scribus fontforge audacity blender vim chromium firefox-firebug firefox-adblock-plus
+sudo pacman -S --needed --noconfirm atom gimp digikam darktable inkscape scribus fontforge audacity blender vim chromium firefox-developer-edition firefox-adblock-plus
+
+echo "Yaourt"
+sudo pacman -S --needed base-devel
+mkdir -p /home/$USER/Developer/Linux/build-repos
+wget -O /home/$USER/Developer/Linux/build-repos/package-query.tar.gz https://aur.archlinux.org/cgit/aur.git/snapshot/package-query.tar.gz
+wget -O /home/$USER/Developer/Linux/build-repos/yaourt.tar.gz https://aur.archlinux.org/cgit/aur.git/snapshot/yaourt.tar.gz
+cd /home/$USER/Developer/Linux/build-repos
+tar -xvf package-query.tar.gz
+tar -xvf yaourt.tar.gz
+cd package-query
+makepkg -sri
+cd ../yaourt
+makepkg -sri
+echo 'ask for editing config file before build'
+echo "EDITFILES=1" >> ~/.yaourtrc
+echo "Yaourt install complete!"
+
+# TODO: install samba
 
 echo "Misc"
 
@@ -39,9 +72,6 @@ sudo wget -O /etc/bash_completion.d/git-completion.bash https://github.com/git/g
 
 cp $_cwd/vimrc /home/$USER/.vimrc
 sudo cp $_cwd/vimrc /root/.vimrc
-
-echo "Atom editor"
-yaourt -S --needed --noconfirm atom-editor
 
 echo "Arduino installation"
 yaourt -S --needed --noconfirm arduino
@@ -58,9 +88,10 @@ if [ "$yn" != "y" ]; then
 fi
 
 echo "Node box installation"
-sudo pacman -S --needed --noconfirm jdk7-openjdk apache-ant
-cd /home/$USER/Documents
-git clone git://github.com/nodebox/nodebox.git
+# sudo pacman -S --needed --noconfirm jdk7-openjdk apache-ant
+# cd /home/$USER/Documents
+# git clone git://github.com/nodebox/nodebox.git
+yaourt -S nodebox
 
 echo -n "Reboot? [Y|n] "
 read yn
